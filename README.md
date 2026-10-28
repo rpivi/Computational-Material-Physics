@@ -8,3 +8,5 @@ Code exaples of methods in Computational Material Physics
 3) [Ritz Variational method: Particle in a box with an barrier inside](ritz_barrier.ipynb)
 
 4) [Ritz Variational method: Hydrogen atom](ritz_hydrogen.ipynb)
+
+5) [Hartree self consistent method: Helium atom](hartree_helium.ipynb)
