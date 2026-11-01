@@ -10,3 +10,6 @@ Code exaples of methods in Computational Material Physics
 4) [Ritz Variational method: Hydrogen atom](ritz_hydrogen.ipynb)
 
 5) [Hartree self consistent method: Helium atom](hartree_helium.ipynb)
+
+6) [Hartree-Fock H2 molecule](HF_H2.ipynb)
+ [Bonding energy of H2 vs interatomic distance](bonding_energy.pdf)
