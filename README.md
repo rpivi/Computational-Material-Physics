@@ -11,5 +11,4 @@ Code exaples of methods in Computational Material Physics
 
 5) [Hartree self consistent method: Helium atom](hartree_helium.ipynb)
 
-6) [Hartree-Fock H2 molecule](HF_H2.ipynb)
- [Bonding energy of H2 vs interatomic distance](bonding_energy.pdf)
+6) [Hartree-Fock H2 molecule](HF_H2.ipynb): you can see the [Bonding energy of H2 vs interatomic distance](bonding_energy.pdf)
